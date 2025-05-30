@@ -23,3 +23,10 @@
 #define SPLIT_LED_STATE_ENABLE
 
 #define ENCODER_RESOLUTION 4
+
+
+// Enable pointing device
+#define POINTING_DEVICE_ENABLE
+
+// Enable drag scroll functionality
+#define DILEMMA_DRAGSCROLL_ENABLE
